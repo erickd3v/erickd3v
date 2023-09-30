@@ -51,10 +51,10 @@
 <a href="https://www.facebook.com/profile.php?id=100065412456890" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/developerem/" target="_blank">
+<a href="https://www.linkedin.com/in/erickd3v/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/erick.y.m.f/" target="_blank">
+<a href="https://www.instagram.com/erick__moya/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -68,6 +68,6 @@
 ---
 
 ### 📊 My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Erick150-ymf&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erickd3v&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick150-ymf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickd3v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
